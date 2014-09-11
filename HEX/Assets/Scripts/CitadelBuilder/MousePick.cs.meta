@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 103559f381cd6274a9f6e49120176d34
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Brick: {fileID: 100000, guid: 74caf43330f519e4b9f347fb9adfefb6, type: 3}
+  - Altar: {fileID: 100000, guid: ac16c957c935a894d9515718b7eca1a2, type: 3}
+  - ConvexCorner: {fileID: 100000, guid: 5c07ff1ce74943d4fa2ff2d0edae186f, type: 3}
+  - ConcaveCorner: {fileID: 100000, guid: b656a0e010eb5694b816221c638c5e07, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
